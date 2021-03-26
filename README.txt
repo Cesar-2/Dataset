@@ -1,6 +1,6 @@
 Integrantes:
 
 Cesar Alejandro Pimiento
-Daniela Chaux
+Daniela Chaux Gallego
 
-Para ejecutar el projecto nesecita tener un entorno virtual e instalar el requirements.txt
+Para ejecutar el projecto necesita tener un entorno virtual e instalar el requirements.txt
